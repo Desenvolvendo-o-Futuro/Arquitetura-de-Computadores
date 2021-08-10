@@ -24,6 +24,7 @@ A primeira máquina computadora de verdade foi construída por [Wilhelm Schickar
 ![Pascaline, máquina calculadora feita por [Blaise Pascal](https://pt.wikipedia.org/wiki/Blaise_Pascal "Blaise Pascal")](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arts_et_Metiers_Pascaline_dsc03869.jpg/150px-Arts_et_Metiers_Pascaline_dsc03869.jpg)
 
 No século XIX, o matemático Charles Babbage propôs uma máquina de calcular que poderia ser programada através de cartões e capaz de imprimir seus resultados em papel, porém não conseguiu fundos suficientes para construir uma versão funcional do [calculador analítico](https://pt.wikipedia.org/wiki/Engenho_anal%C3%ADtico "Engenho analítico"). A matemática e escritora Ada Lovelace desenvolveu um algoritmo para ser executado no Calculador Analítico de Babbage, sendo considerada a primeira programadora da história.
+
 ![Réplica (parte) do Calculador Diferencial criado por Charles Babbage.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BabbageDifferenceEngine.jpg/220px-BabbageDifferenceEngine.jpg)
 
 ### Máquina de Turing
