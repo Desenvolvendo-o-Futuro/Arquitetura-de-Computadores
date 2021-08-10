@@ -19,12 +19,12 @@ Mas em 1901 foi encontrado um mecanismo, bastante curioso na costa da ilha grega
 
 ### Computadores Mecânicos Multifuncionais
 
-A primeira máquina computadora de verdade foi construída por [Wilhelm Schickard](https://pt.wikipedia.org/wiki/Wilhelm_Schickard "Wilhelm Schickard") sendo capaz de somar, subtrair, multiplicar e dividir. Essa máquina foi perdida durante a [guerra dos trinta anos](https://pt.wikipedia.org/wiki/Guerra_dos_trinta_anos "Guerra dos trinta anos"), sendo que recentemente foi encontrada alguma documentação sobre ela. Durante muitos anos nada se soube sobre essa máquina, por isso, atribuía-se a [Blaise Pascal](https://pt.wikipedia.org/wiki/Blaise_Pascal "Blaise Pascal") ([1623](https://pt.wikipedia.org/wiki/1623 "1623")-[1662](https://pt.wikipedia.org/wiki/1662 "1662")) a construção da primeira máquina calculadora, que fazia apenas somas e subtrações.
+A primeira máquina computadora de verdade foi construída por [Wilhelm Schickard](https://pt.wikipedia.org/wiki/Wilhelm_Schickard "Wilhelm Schickard") sendo capaz de somar, subtrair, multiplicar e dividir. Essa máquina foi perdida durante a [guerra dos trinta anos](https://pt.wikipedia.org/wiki/Guerra_dos_trinta_anos "Guerra dos trinta anos"), sendo que recentemente foi encontrada alguma documentação sobre ela. Durante muitos anos nada se soube sobre essa máquina, por isso, atribuía-se a Blaise Pascal a construção da primeira máquina calculadora, que fazia apenas somas e subtrações.
 
 ![Pascaline, máquina calculadora feita por [Blaise Pascal](https://pt.wikipedia.org/wiki/Blaise_Pascal "Blaise Pascal")](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arts_et_Metiers_Pascaline_dsc03869.jpg/150px-Arts_et_Metiers_Pascaline_dsc03869.jpg)
 
 No século XIX, o matemático Charles Babbage propôs uma máquina de calcular que poderia ser programada através de cartões e capaz de imprimir seus resultados em papel, porém não conseguiu fundos suficientes para construir uma versão funcional do [calculador analítico](https://pt.wikipedia.org/wiki/Engenho_anal%C3%ADtico "Engenho analítico"). A matemática e escritora Ada Lovelace desenvolveu um algoritmo para ser executado no Calculador Analítico de Babbage, sendo considerada a primeira programadora da história.
-[![Réplica (parte) do Calculador Diferencial criado por  [Charles Babbage](https://pt.wikipedia.org/wiki/Charles_Babbage "Charles Babbage").](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BabbageDifferenceEngine.jpg/220px-BabbageDifferenceEngine.jpg)](https://pt.wikipedia.org/wiki/Ficheiro:BabbageDifferenceEngine.jpg)
+![Réplica (parte) do Calculador Diferencial criado por Charles Babbage.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BabbageDifferenceEngine.jpg/220px-BabbageDifferenceEngine.jpg)
 
 ### Máquina de Turing
 
@@ -51,7 +51,7 @@ John Von Neumman propôs uma modelagem dos computadores de forma inspirada em um
 
 Para isso, eles teriam que ter três características:
 
-1.  Codificar as instruções de uma forma possível de ser armazenada na  [memória do computador](https://pt.wikipedia.org/wiki/Mem%C3%B3ria_(computador)). Von Neumann sugeriu que fossem usados uns e zeros.
+1.  Codificar as instruções de uma forma possível de ser armazenada na memória do computador. Von Neumann sugeriu que fossem usados uns e zeros, o código binário.
 2.  Armazenar as instruções na memória, bem como toda e qualquer informação necessária a execução da tarefa, e
 3.  Quando processar o programa, buscar as instruções diretamente na memória, ao invés de lerem um novo  "Cartão perfurado" a cada passo.
 
